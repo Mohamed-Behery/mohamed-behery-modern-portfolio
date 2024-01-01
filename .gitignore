@@ -1,0 +1,7 @@
+# For Live Server
+.vscode
+# For The Deployed Version
+public
+.firebaserc
+firebase.json
+.firebase
